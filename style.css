@@ -1,0 +1,32 @@
+*{
+    background-color: #777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+header{
+    position: relative;
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+    margin-bottom: 10px;
+    width: 80%;
+    left: 10%;
+}
+nav{
+    position: relative;
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+    width: 80%;
+    left: 10%;
+}
+
+section{
+    position: relative;
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+    width: 80%;
+    left: 10%;
+}
